@@ -2,7 +2,6 @@
 
 # HealthBuddy AI Assistant
 
-![HealthBuddy Logo](https://via.placeholder.com/800x200/3498db/ffffff?text=HealthBuddy+AI+Assistant)
 
 ## Overview
 
@@ -63,8 +62,8 @@ HealthBuddy AI Assistant is a Streamlit-based web application that leverages Goo
 
 ## Screenshots
 
-![HealthBuddy Interface](https://via.placeholder.com/800x600/f0f8ff/2c3e50?text=HealthBuddy+Interface)
-![HealthBuddy Chat Example](https://via.placeholder.com/800x600/f0f8ff/2c3e50?text=HealthBuddy+Chat+Example)
+![image](https://github.com/user-attachments/assets/9e0776de-ef6c-4e43-9a7f-1a668b5f2303)
+
 
 ## Important Disclaimers
 
@@ -109,9 +108,7 @@ google-generativeai>=0.3.0
 python-dotenv>=1.0.0
 ```
 
-## License
 
-[MIT License](LICENSE)
 
 ## Acknowledgements
 
